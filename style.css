@@ -34,6 +34,13 @@ ul li{
     list-style-type: none;
     padding: 0 10px;
 }
+ul li a{
+    color: white;
+    text-decoration: none;    
+}
+ul li a:hover{
+    color: rgb(191, 195, 203);
+}
 main{
     min-height: 90vh;
 }
